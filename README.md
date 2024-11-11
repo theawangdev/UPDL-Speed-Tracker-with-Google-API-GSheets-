@@ -8,7 +8,7 @@ IDE: Visual Studio
 <br>Language: C# (.NET)
 <br>Framework Version: 4.7.2
 
-## Steps to make this project work
+## Things to do to make this project work
 1. Get Google API Credentials from Google Cloud Console.
    <br>Tutorial: https://www.youtube.com/watch?v=nqlyLZxX0ys
 
@@ -20,4 +20,4 @@ IDE: Visual Studio
    <br>- Google.Apis.Auth
    <br>- Google.Apis.Core
    <br>- Google.Apis.Sheets.v4
-   <br>- Newtonsoft.JSON
+   <br>- Newtonsoft.JSON 
