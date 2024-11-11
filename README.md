@@ -1,6 +1,6 @@
 ![alt text](https://github.com/theawangdev/UPDL-Speed-Tracker-with-Google-API-GSheets-/blob/master/UPDL%20Speed%20Tracker.png?raw=true)
 
-# UPDL Speed Tracker with Google API (GSheets)
+# UPDL Speed Tracker v1 with Google API (GSheets)
 
 A Windows Desktop Application built to track the time taken or speed needed for a file to complete upload or download. This data then will be store/write instantly into Google Sheets using Google API.
 
